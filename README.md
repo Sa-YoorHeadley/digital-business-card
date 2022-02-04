@@ -3,7 +3,7 @@
 ## Sa-Yoor Headley
 ### Front End Developer
 
-* [Email](mailto: sai.h152015@gmail.com)
+* [Email](mailto:sai.h152015@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/sa-yoor-headley/)
 
 ## About
