@@ -26,7 +26,7 @@
   <h1>Digital Business Card</h1>
   
   <p>
-    Digital Business SPA made using React
+    Digital Business Card SPA made using React
   </p>
   
 <!-- Badges -->
@@ -43,7 +43,7 @@
 <br />
 
 ## Description 
-This is my solution to the Photo Journal project on Scrimba.
+This is my solution to the Digital Business Card project on Scrimba.
 
 ### Concepts Used
 - Components
